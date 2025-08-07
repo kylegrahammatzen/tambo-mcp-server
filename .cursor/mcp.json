@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tambo-docs": {
+      "command": "node",
+      "args": ["D:\\oss\\docs-mcp-server\\dist\\index.js"]
+    }
+  }
+}
