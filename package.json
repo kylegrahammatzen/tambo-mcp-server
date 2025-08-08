@@ -9,9 +9,9 @@
   },
   "scripts": {
     "build": "tsc",
-    "start": "npm run build && node dist/index.js",
-    "dev": "tsx --watch src/index.ts",
-    "test": "tsx src/test.ts"
+    "start": "bun run build && bun dist/index.js",
+    "dev": "bun --watch src/index.ts",
+    "test": "bun src/test.ts"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0",
