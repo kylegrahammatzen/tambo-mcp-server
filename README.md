@@ -2,6 +2,10 @@
 
 A TypeScript-based Model Context Protocol (MCP) server for serving Tambo documentation from https://docs.tambo.co/
 
+<a href="https://glama.ai/mcp/servers/@kylegrahammatzen/tambo-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kylegrahammatzen/tambo-mcp-server/badge" alt="Tambo Docs Server MCP server" />
+</a>
+
 ## Features
 
 - **Dynamic Documentation Discovery**: Automatically crawls and discovers all available documentation pages
